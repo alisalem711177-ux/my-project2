@@ -136,7 +136,7 @@
 
           <div class="text-center">
 
-            <button type="submit" class="btn btn-primary px-5 py-2" onclick="SendForm()">إرسال</button>
+            <button type="button" class="btn btn-primary px-5 py-2" onclick="SendForm()">إرسال</button>
           </div>
 
         </form>
