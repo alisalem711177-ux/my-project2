@@ -1,2 +1,11 @@
-# my-project2
-تطوير ويب وبرامج بلغة فجوال بيسيك 
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقعي الأول</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding-top: 50px;">
+    <h1>مرحباً يا علي!</h1>
+    <p>هذا هو أول موقع تنشره على GitHub 🎉</p>
+</body>
+</html>
