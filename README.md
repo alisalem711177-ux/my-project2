@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>التطبيق العملي الخامس</title>
+    <title> تسجيل الدخول  </title>
     <!-- ربط Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- ربط خطوط Cairo -->
@@ -51,6 +51,7 @@
 
     <section class="py-5 bg-light"> 
       <div class="container"> 
+        <h2 class="text-center mb-4 fw-bold text-primary">مرحبا بكم في موقع المهندس/اسامة ابراهيم دعقين </h2>
         <h2 class="text-center mb-4 fw-bold text-primary">تواصل معنا</h2>
 
         <form class="p-4 shadow-sm rounded bg-white mx-auto">
